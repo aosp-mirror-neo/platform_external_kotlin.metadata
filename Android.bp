@@ -16,7 +16,7 @@ license {
 
 java_import_host {
     name: "kotlin_metadata_jvm",
-    jars: ["kotlin-metadata-jvm-2.0.21.jar"],
+    jars: ["org/jetbrains/kotlin/kotlin-metadata-jvm/2.1.10/kotlin-metadata-jvm-2.1.10.jar"],
     visibility: [
         "//external/auto/value",
         "//external/dagger2",
