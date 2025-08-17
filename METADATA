@@ -11,9 +11,9 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "/placer/prod/home/kokoro-dedicated/build_artifacts/prod/android-studio/kotlin-verification-pipeline/verify-artifacts/release/992/20250228-105448/maven-2.1.10-release-473.zip"
+    value: "/placer/prod/home/kokoro-dedicated/build_artifacts/prod/android-studio/kotlin-verification-pipeline/verify-artifacts/release/1168/20250806-060341/maven-2.2.0-release-294.zip"
   }
-  version: "2.1.10"
-  last_upgrade_date { year: 2025 month: 03 day: 03 }
+  version: "2.2.0"
+  last_upgrade_date { year: 2025 month: 8 day: 15 }
   license_type: NOTICE
 }
